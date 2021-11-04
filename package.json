@@ -1,0 +1,17 @@
+{
+  "name": "Ignite-Nodejs-PrimeiraAplica--oNodejs-Rocketseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/otavioaugusto1/Ignite-Nodejs-PrimeiraAplicacaoNodejs-Rocketseat.git",
+  "author": "Otávio Augusto Gonçalves Nogueira <otavio.a.nogueira@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
